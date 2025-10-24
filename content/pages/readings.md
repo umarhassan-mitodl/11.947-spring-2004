@@ -80,7 +80,7 @@ Bashaw, John R. "Environmental Site Assessment." *Occupational Health & Safety* 
 
 Blanchet, R. "Risk Assessments Aid Phase III Audits." *Environmental Protection*, April 1992.
 
-Hernandez, L. *Building Upon Our Strengths: A Community Guide to Brownfields Redevelopment in the San Francisco Bay Area*. Oakland, CA: {{% resource_link "eccf24da-4266-4742-a34a-05221cfdc1c3" "Urban Habitat Program" %}}, 1999, pp. 1-14, 52-57, and 65-68.
+Hernandez, L. *Building Upon Our Strengths: A Community Guide to Brownfields Redevelopment in the San Francisco Bay Area*. Oakland, CA: [Urban Habitat Program](http://www.urbanhabitat.org/), 1999, pp. 1-14, 52-57, and 65-68.
 
 Hollander, Jason B. "Measuring Community: Using Sustainability Indicators in Devens, MA." *Planners' Casebook* (January 2002).
 
@@ -110,7 +110,7 @@ Chertow, Marian R., and Daniel C. Esty, eds. *Thinking Ecologically: The Next Ge
 
 Coogan, P., and T. Greene. "How to Investigate Environmental Health Problems in Your Community." Boston, MA: JSI Center for Environmental Health Studies. Working Paper, 1997.
 
-{{% resource_link "746de66e-e6e8-43fa-a0e8-c8c15ff367f5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heaton, G., Jr., and R. D. Banks. "Toward a New Generation of Environmental Technology." In *Investing in Innovation*. Edited by Lewis Branscomb and James Keller. Cambridge, MA: MIT Press, 1998, chapter 11, pp. 276-297. ISBN: 9780262522670.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522670) Heaton, G., Jr., and R. D. Banks. "Toward a New Generation of Environmental Technology." In *Investing in Innovation*. Edited by Lewis Branscomb and James Keller. Cambridge, MA: MIT Press, 1998, chapter 11, pp. 276-297. ISBN: 9780262522670.
 
 Waits, Mary Jo. "The Added Value of the Industry Cluster Approach to Economic Analysis, Strategy Development, and Service Delivery." *Economic Development Quarterly* 14, no. 1 (February 2002): 35-50.
 
@@ -126,7 +126,7 @@ Apply Previous Class Content to Projects
 Environmental Justice Issues and Market Analysis
 {{< tdclose >}}{{< tdopen >}}
 
-Cairns, Shannon, Jessica Greig, and Martin Wachs. "{{% resource_link "5471afa2-c2bb-41c3-be6d-68e51d66243b" "Environmental Justice and Transportation: A Citizen's Handbook" %}}." Institute of Transportation Studies. Berkeley, CA: University of California Berkeley, 2003.
+Cairns, Shannon, Jessica Greig, and Martin Wachs. "[Environmental Justice and Transportation: A Citizen's Handbook](http://www.escholarship.org/uc/item/66t4n94b#page-7)." Institute of Transportation Studies. Berkeley, CA: University of California Berkeley, 2003.
 
 Carn, N., et al. *Real Estate Market Analysis: Techniques and Applications*. London, UK: International Thompson Publishing Services, Ltd., 1988, Chapter 10, pp. 214-234. ISBN: 0324136560.
 
@@ -198,7 +198,7 @@ Hernandez, M. "The Impact of Commercial Development on Inner City Revitalization
 
 Simmons, R. *Turning Brownfields into Greenbacks: Developing and Financing Environmentally Contaminated Urban Real Estate*. Washington, DC: Urban Land Institute, 1998, pp. 100-110. ISBN: 0874208513.
 
-{{% resource_link "07d1b127-929d-46be-b518-aecd87fb37cb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Shutkin, William. *The Land That Could Be: Environmentalism and Democracy in the Twenty First Century*. Cambridge, MA: MIT Press, 2000, pp. 167-208. ISBN: 9780262692700.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692700) Shutkin, William. *The Land That Could Be: Environmentalism and Democracy in the Twenty First Century*. Cambridge, MA: MIT Press, 2000, pp. 167-208. ISBN: 9780262692700.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -216,9 +216,9 @@ Blakely, E., and T. Bradshaw. "Business Development." In *Planning Local Economi
 
 Chertow, Marian R., and Daniel C. Esty, eds. *Thinking Ecologically: The Next Generation of Environmental Policy*. New Haven, CT: Yale University Press, 1997, pp. 60-76. ISBN: 0300073038.
 
-Grossman, Karen. "Connectors and Conduits: Reaching Competitive Markets from the Ground Up." The Aspen Institute, 2002, pp. 12-32. ({{% resource_link "cfa1ba5d-f32f-4ee6-abd7-23aa148cb14e" "PDF" %}})
+Grossman, Karen. "Connectors and Conduits: Reaching Competitive Markets from the Ground Up." The Aspen Institute, 2002, pp. 12-32. ([PDF](https://www.aspeninstitute.org/publications/connectors-and-conduits-reaching-competitive-markets-ground/))
 
-Holliston Case Study. {{% resource_link "e8a7d3a4-720b-4663-9efb-45b86f984462" "Charles River Watershed Association" %}}.
+Holliston Case Study. [Charles River Watershed Association](http://www.crwa.org/).
 
 Lowitt, Peter. "Londonderry Case Study." and Lowitt, Peter, M. Deppe, T. Leatherwood, and N. Warner. "A Planner's Overview of Eco-Industrial Development." Both prepared for American Planning Association Annual Conference, 2000. Unpublished documents.
 

@@ -11,44 +11,44 @@ uid: d4eb98d9-a946-9e10-2685-bf6a65753096
 
 ### Session 5: Research Methods: Brownfields, Economic Base Analysis, and Indicators
 
-{{% resource_link "3516aeb5-9239-41ad-af69-b890fa5bea1d" "EPA Brownfields" %}}
+[EPA Brownfields](http://www.epa.gov/brownfields)
 
-{{% resource_link "6b3e12ff-03c3-4f5d-a9a9-6bc2e48b5bca" "Northeast-Midwest Institute" %}}
+[Northeast-Midwest Institute](http://www.nemw.org/)
 
-{{% resource_link "45dfd961-437d-44d9-8c9c-d17a420f39f5" "Boston Redevelopment Authority" %}}
+[Boston Redevelopment Authority](http://www.bostonplans.org/)
 
-{{% resource_link "520ca237-13aa-452f-93d1-d9fe3656da68" "Local Economic Analysis" %}}
+[Local Economic Analysis](http://www.uwex.edu/ces/cced/dma/6.html)
 
 ### Session 7: Research Methods: Waste Streams/Emissions and Industry and Cluster Analysis
 
 ### Session 9: Research Methods: Environmental Justice Issues and Market Analysis
 
-{{% resource_link "520ca237-13aa-452f-93d1-d9fe3656da68" "Center for Community Economic Development" %}}
+[Center for Community Economic Development](http://www.uwex.edu/ces/cced/dma/6.html)
 
 ### Session 14: Technology Transfer, Green Design, and Industrial Ecology
 
-{{% resource_link "84ac9fab-40df-4015-90cb-8b29660634f8" "U.S. Green Building Council" %}}
+[U.S. Green Building Council](https://www.usgbc.org/?utm_medium=ppc&gclid=CjwKCAiAo5qABhBdEiwAOtGmbnb87g_dewjCB7lRYrL24eyzWVZbUJwR7uNiI13mavhWS-Y535G7oBoCEyMQAvD_BwE)
 
-{{% resource_link "34fdeecd-7354-4766-b437-df33cd2b9e90" "Rocky Mountain Institute" %}}
+[Rocky Mountain Institute](http://www.rmi.org/)
 
-Hickory Consortium ({{% resource_link "e325c02c-3feb-4567-94b7-ac3fdd55fe50" "PDF" %}})
+Hickory Consortium ([PDF](http://www.nrel.gov/docs/fy03osti/31726.pdf))
 
-{{% resource_link "58e2195b-85f6-4b95-a50c-c758870f9f6e" "Green Houses" %}} (talk by Liz Cordero)
+[Green Houses](http://www.nesea.org/greenbuildings/) (talk by Liz Cordero)
 
-{{% resource_link "e4ab4108-533a-42e9-946c-00328f2bff7b" "National Resources Defense Council" %}}
+[National Resources Defense Council](http://www.nrdc.org/cities/default.asp)
 
-{{% resource_link "d7cb906e-c918-459a-a263-ca17c9c91b38" "Mass STEP Program" %}}
+[Mass STEP Program](http://www.mass.gov/envir/)
 
-{{% resource_link "4956b1e9-28d0-4368-93ce-a7ffdaa5c5b5" "Toxic Waste Reduction Institute" %}}
+[Toxic Waste Reduction Institute](http://www.turi.org/)
 
 ### Session 16: Brownfields Redevelopment and Real Estate Development
 
-{{% resource_link "2de0acb5-c348-4c70-bb34-4ba2686321f5" "Urban Land Institute" %}}
+[Urban Land Institute](http://www.uli.org/)
 
 ### Session 18: Small Business Development and Land Use Planning
 
-{{% resource_link "5562a0c2-f957-4bb2-8d40-c12d0dc08a63" "CRWA, REAL Planning" %}}
+[CRWA, REAL Planning](http://www.greeningthegrey.org/crwas-plan-for-future-sustainability/)
 
-{{% resource_link "bd2311a9-71b4-418d-81f7-46b6427f8f71" "Small business administration" %}}
+[Small business administration](http://www.sba.gov/ma/)
 
-{{% resource_link "962c73f2-408f-4414-93b7-9c909da70c26" "Microenterprise development (PDF)" %}}
+[Microenterprise development (PDF)](https://www.aspeninstitute.org/wp-content/uploads/2017/07/MicroFactSheet2.pdf)
